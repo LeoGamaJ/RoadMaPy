@@ -1,7 +1,7 @@
 # Introdução 
-Filosofia da Linguagem
-Como Instalar
-Executando Python no terminal
-Escolhendo um editor de texto
+* Filosofia da Linguagem
+* Como Instalar
+* Executando Python no terminal
+* Escolhendo um editor de texto
 
 
