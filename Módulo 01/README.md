@@ -1,7 +1,7 @@
 # Módulo 01 - Básico 
 
 ## 01 - Sintaxe Básica
-* Regras
+* Regras  
 * Comentários
 * Indentação
 * print( ) 
