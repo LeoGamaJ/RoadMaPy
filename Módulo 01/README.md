@@ -4,7 +4,7 @@
 * Regras
 * Comentários
 * Indentação
-* print( )
+* print( ) 
 
 ## 02 - Variáveis e Tipos de Dados
 * Variáveis: Valores e Tipos
