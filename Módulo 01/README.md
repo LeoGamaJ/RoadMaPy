@@ -22,7 +22,7 @@
 * Tuplas
 * Dicionários
 * Sets
-* Operações com Estruturas Compostas
+* Operações com Estruturas Compostas 
 
 ## 04 - Declarações Condicionais
 * For
