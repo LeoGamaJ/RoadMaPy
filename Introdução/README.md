@@ -9,3 +9,5 @@
 * IDE's:
   *  Colab: https://www.google.com/intl/pt-BR/drive/
   *  VsCode: https://code.visualstudio.com/
+  *  Anaconda: https://www.anaconda.com/
+  *  Miniconda: https://docs.conda.io/en/latest/miniconda.html
