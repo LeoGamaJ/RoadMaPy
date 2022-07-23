@@ -6,3 +6,6 @@
 
 ### Links:
 * Instalação do Python: https://www.python.org/downloads/
+* IDE's:
+  *  Colab: https://www.google.com/intl/pt-BR/drive/
+  *  VsCode: https://code.visualstudio.com/
